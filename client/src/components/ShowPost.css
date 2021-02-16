@@ -1,0 +1,11 @@
+.postbody{
+    white-space: pre-line;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.postItem{
+    border: 2px solid rosybrown;
+    margin: 2px;
+    padding: 30px;
+    border-radius: 10px;
+}
